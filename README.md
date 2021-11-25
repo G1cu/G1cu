@@ -4,7 +4,7 @@
   ## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
   Welcome to my GitHub profile.
 
-  [![Website](https://i.imgur.com/BSDhVVJ.png)](https://g1cu.xyz/)
+  [![Website](https://i.imgur.com/BSDhVVJ.png)](https://g1cu.space/)
 
   ### Programming Languages
   [![Javascript](https://camo.githubusercontent.com/3aaee8bf7885dcf0cea8a5647c4514b7d800b1a730d38bce7dadf6bff883378d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4a61766153637269707426636f6c6f723d323232323232266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d463744463145266c6162656c3d)](https://www.javascript.com)
