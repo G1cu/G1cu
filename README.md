@@ -1,15 +1,15 @@
 <div align="center">
 
   
-  ## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-  Welcome to my GitHub profile.
+  ## Salut <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+  Bine ai venit pe Profilul meu de GitHub.
 
-  [![Website](https://i.imgur.com/BSDhVVJ.png)](https://g1cu.space/)
+  [![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://g1cu.space/)
 
   ### Programming Languages
-  [![Javascript](https://camo.githubusercontent.com/3aaee8bf7885dcf0cea8a5647c4514b7d800b1a730d38bce7dadf6bff883378d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4a61766153637269707426636f6c6f723d323232323232266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d463744463145266c6162656c3d)](https://www.javascript.com)
-  [![HTML5](https://camo.githubusercontent.com/d2da7e7ec8424780720101d4853c64dffb81dc69dfdd25a0ce88cdb3848bbc6f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d48544d4c3526636f6c6f723d453334463236266c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://html.com/)
-  [![Lua](https://camo.githubusercontent.com/4195587f81871f5e9c27d6769439f75e995e7f8d0c035250b74486bfa5b49f44/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c756126636f6c6f723d324332443732266c6f676f3d4c7561266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://www.lua.org)
+  [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com)
+  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
+  [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org)
 
   
   
@@ -18,6 +18,13 @@
   [![Visual Studio Code](https://camo.githubusercontent.com/333efdf3d52583cf7c536e5364439a833bb89c25afffbb42550c2bf0ce260827/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d56697375616c2b53747564696f2b436f646526636f6c6f723d303037414343266c6f676f3d56697375616c2b53747564696f2b436f6465266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://code.visualstudio.com)
   [![Sublime Text](https://camo.githubusercontent.com/b7603157c0778e9255eb412fe2ad216ae67e2ea860e015d60d4dcda078f7fd5f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5375626c696d652b5465787426636f6c6f723d323232323232266c6f676f3d5375626c696d652b54657874266c6f676f436f6c6f723d464639383030266c6162656c3d)](https://www.sublimetext.com/)
 
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=g1cu&theme=dark"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1cu&theme=dark"/>
+  
+  
+
+  
+  
   
 
 </div>
