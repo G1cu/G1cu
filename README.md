@@ -7,7 +7,7 @@
 <!--   [![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://g1cu.space/) -->
 
   ### Programming Languages
-  [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com)
+  [![Javascript](https://skillicons.dev/icons?i=js)](https://www.javascript.com)
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
   [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
   [![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://css3.com/)
